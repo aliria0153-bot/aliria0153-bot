@@ -1,16 +1,30 @@
-## Hi there 👋
+# Aliria | Linux & Infrastructure Learning Journey
 
-<!--
-**aliria0153-bot/aliria0153-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently building a hands-on understanding of Linux systems,
+networking, and infrastructure through practical projects.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linux Survival Toolkit
+Basic Linux automation and scripting tools.
+
+### Linux Process Inspector
+Inspect process state and file descriptor usage via /proc.
+
+### Socket Watcher
+Analyze active TCP sockets and system-wide connections.
+
+### Connection Monitor
+Real-time monitoring of network connections and socket usage.
+
+## Focus Areas
+
+- Linux internals
+- File descriptors
+- Networking (TCP/IP)
+- System observability
+- Bash scripting
+
+## Current Learning Path
+
+Linux → Processes → File Descriptors → Sockets → Monitoring → Event-driven systems

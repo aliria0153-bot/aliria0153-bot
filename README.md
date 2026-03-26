@@ -1,30 +1,28 @@
 # Aliria | Linux & Infrastructure Learning Journey
 
-I am currently building a hands-on understanding of Linux systems,
-networking, and infrastructure through practical projects.
+I am currently transitioning into IT with a focus on Linux systems, networking, and security.
+
+I enjoy breaking down how systems work under the hood — from processes and file descriptors to sockets and real-time monitoring — and building tools to understand and troubleshoot them.
 
 ## Projects
 
-### Linux Survival Toolkit
-Basic Linux automation and scripting tools.
+- **Linux Process Inspector** — explores process states and file descriptors via `/proc`  
+- **Socket Watcher** — analyses TCP socket activity and system connections  
+- **Connection Monitor** — real-time monitoring of network connections  
+- **Network Troubleshooter** — diagnostic tool for analysing connectivity and system behaviour  
 
-### Linux Process Inspector
-Inspect process state and file descriptor usage via /proc.
+## Current Focus
 
-### Socket Watcher
-Analyze active TCP sockets and system-wide connections.
+- Linux internals  
+- Networking (TCP/IP, sockets)  
+- System observability  
+- Troubleshooting and diagnostics  
+- Event-driven systems  
 
-### Connection Monitor
-Real-time monitoring of network connections and socket usage.
+## Learning Path
 
-## Focus Areas
+Linux → Processes → File Descriptors → Sockets → Monitoring → Event-Driven Systems
 
-- Linux internals
-- File descriptors
-- Networking (TCP/IP)
-- System observability
-- Bash scripting
+---
 
-## Current Learning Path
-
-Linux → Processes → File Descriptors → Sockets → Monitoring → Event-driven systems
+I’m actively building hands-on projects to develop a strong foundation in infrastructure and security engineering.
